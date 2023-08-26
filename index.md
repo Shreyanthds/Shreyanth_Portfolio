@@ -10,15 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# CaloGreens
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This Python script is a Streamlit web application for detecting and classifying fruits and vegetables and fetching their calorie information. It uses a pre-trained deep learning model to classify images as either fruits or vegetables and provides real-time calorie data for the recognized item. The script is designed to be user-friendly, allowing users to upload images and get instant predictions and nutrition information.
 
-## Header 2
+# SMARTHIRE.Al
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+It helps candidates assess how well their resume matches a given job description using natural language processing (NLP) techniques. The application takes the job description as input and allows users to upload their resume in PDF format. It then calculates the similarity between the job description and the resume and provides an overview and suitability evaluation based on the similarity score.
 
 ### Header 3
 
