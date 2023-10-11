@@ -1,3 +1,74 @@
+# Shreyanth H G
+
+Machine Learning Engineer | AI Enthusiast | 
+
+📧 Email: shreyanthhg1427@gmail.com 
+
+📍 Location: Bengaluru, Karnataka
+
+# 🎓Education
+
+Master's in Artificial Intelligence and Machine Learning (Pursuing)
+  - Liverpool John Moores University -Upgrad
+  - currently pursuing
+
+# Projects
+
+## CaloGreens.AI (Calorie Detection in Fruits and Veggies)**
+  - ![CaloGreens]![CaloGreens](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/0484ef7d-539a-4001-bd63-aa21517b3698)
+  - Utilizes a pre-trained CNN model for image classification and calorie detection.
+  - Developed a user-friendly Streamlit app.
+
+## SmartHire.AI (Employee Skill Evaluation for Optimal Job Fit)**
+  - ![Project Image]![SmartHireAI](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/c890a47c-2544-4938-9f38-75f02ee64599)
+  - Compares job descriptions with uploaded PDF resumes using NLP techniques.
+  - Calculates similarity and provides a suitability overview.
+
+## Predicting Customer Churn in a Telecom Company (Full Stack)**
+  - ![Project Image](Image_URL_3)
+  - Utilizes logistic regression for customer churn prediction.
+  - Dockerized the app and implemented CI/CD using Git and Jenkins.
+
+## Distinct Wine Categories Clustering**
+  - ![Project Image](Image_URL_4)
+  - Implemented K-Means clustering from scratch in Python.
+  - Analyzed and visualized wine dataset clusters.
+
+
+# Expertise/ Skills
+
+Machine Learning Algorithms
+Deep Learning (CNN, RNN, Transfer Learning)
+Data Preprocessing & Feature Engineering
+Model Evaluation & Tuning
+Data Visualization
+NLP and Text Analytics (Intermediate level)
+Version Control (Git & GitHub)
+Databases and SQL
+Model Deployment (Streamlit, Docker)
+
+# 📚 Certifications
+
+- Post Graduation Program in Computational Data Science
+- PGP in Artificial Intelligence (Collaborated with LJMU Masters Program)
+- Google Cloud Skill Boost Badges
+- IBM Skill Badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 layout: default
 ---
