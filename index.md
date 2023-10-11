@@ -14,13 +14,15 @@ Master's in Artificial Intelligence and Machine Learning (Pursuing)
 
 # Projects
 
-## CaloGreens.AI (Calorie Detection in Fruits and Veggies)
+## CaloGreens.AI 
+#### Calorie Detection in Fruits and Veggies
 ![CaloGreens](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/0484ef7d-539a-4001-bd63-aa21517b3698)
 Utilizes a pre-trained CNN model for image classification and calorie detection.
 This Python script is a Streamlit web application for detecting and classifying fruits and vegetables and fetching their calorie information. It uses a pre-trained deep learning model to classify images as either fruits or vegetables and provides real-time calorie data for the recognized item. The script is designed to be user-friendly, allowing users to upload images and get instant predictions and nutrition information.
 
-## SmartHire.AI (Employee Skill Evaluation for Optimal Job Fit)**
-  - ![Project Image]![SmartHireAI](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/c890a47c-2544-4938-9f38-75f02ee64599)
+## SmartHire.AI 
+#### Employee Skill Evaluation for Optimal Job Fit
+![Project Image]![SmartHireAI](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/c890a47c-2544-4938-9f38-75f02ee64599)
 Compares job descriptions with uploaded PDF resumes using NLP techniques.
 Calculates similarity and provides a suitability overview.It helps candidates assess how well their resume matches a given job description using natural language processing (NLP) techniques. The application takes the job description as input and allows users to upload their resume in PDF format. It then calculates the similarity between the job description and the resume and provides an overview and suitability evaluation based on the similarity score.
 
