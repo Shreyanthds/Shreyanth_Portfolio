@@ -1,6 +1,16 @@
 # Shreyanth H G
 
-Machine Learning Engineer | AI Enthusiast | 
+AI/ML Engineer | AI Enthusiast | 
+
+## Exprience 
+
+#### AI/ML Engineer
+
+Currently working at 
+#### Accurate Info Solution 
+
+Building and Optimising machine learning models, leveraging data to solve complex problems, improve predictions, Al Strategy Framework, Structured Data Storytelling Mapping ML with Data Architecture Strategy.Building and Optimising machine learning models, leveraging data to solve complex problems, improve predictions, Al Strategy Framework, Structured Data Storytelling Mapping ML with Data Architecture Strategy.
+Skills: Git · docker · Kubernetes · Artificial Intelligence (AI) · MLOps
 
 📧 Email: shreyanthhg1427@gmail.com 
 
