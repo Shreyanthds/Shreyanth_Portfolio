@@ -10,87 +10,116 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Shreyanth H G
+# CaloGreens
 
-Machine Learning Engineer | AI Enthusiast | Data Scientist
+This Python script is a Streamlit web application for detecting and classifying fruits and vegetables and fetching their calorie information. It uses a pre-trained deep learning model to classify images as either fruits or vegetables and provides real-time calorie data for the recognized item. The script is designed to be user-friendly, allowing users to upload images and get instant predictions and nutrition information.
 
-📧 Email: shreyanthhg1427@gmail.com 📱 Phone: 7899433061
+# SMARTHIRE.Al
 
-📍 Location: Bengaluru, Karnataka
+It helps candidates assess how well their resume matches a given job description using natural language processing (NLP) techniques. The application takes the job description as input and allows users to upload their resume in PDF format. It then calculates the similarity between the job description and the resume and provides an overview and suitability evaluation based on the similarity score.
 
-🎓 **Education**
+# Predicting Customer Churn in a Telecom Company (Full Stack)
+Utilizes logistic regression for customer churn prediction.
+Dockerized the app and implemented CI/CD using Git and Jenkins.
 
-- Master's in Artificial Intelligence and Machine Learning (Pursuing)
-  - Liverpool John Moores University, UK (Virtual mode)
-  - Expected Completion: 2025
-- Bachelor of Engineering in Computer Science
-  - East West Institute of Technology
-  - Graduated in 2022
-  - Grade: 7.71 CGPA
+### Header 3
 
-🌐 **Work Experience**
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
-- **Data Scientist**
-  - TuringMinds.ai
-  - April 2022 - April 2023
-  - Developed ANN Classification algorithms and handled deep learning.
-  - Expertise in data preprocessing, feature engineering, and model optimization.
-  - Experience with MLOps tools including CI/CD pipelines, Docker, and Git/GitHub.
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-- **Machine Learning Engineer**
-  - Upgrad Insofe
-  - Jan 2023 - March 2023
-  - Developed Artificial Neural Network models without popular deep learning libraries.
-  - Implemented the ANN class to solve various problem statements.
+#### Header 4
 
-- **Machine Learning Intern**
-  - Compsoft Technologies
-  - Mar 2022 - April 2022
-  - Worked on MED SUGGESTION, an AI system for a Medical chatbot.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-💬 **Languages**: English, Kannada, Hindi
+##### Header 5
 
-🔍 **Expertise/ Skills**
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
-- Machine Learning Algorithms
-- Deep Learning (CNN, RNN, Transfer Learning)
-- Data Preprocessing & Feature Engineering
-- Model Evaluation & Tuning
-- Data Visualization
-- NLP and Text Analytics (Intermediate level)
-- Version Control (Git & GitHub)
-- Databases and SQL
-- Model Deployment (Streamlit, Docker)
+###### Header 6
 
-📚 **Certifications**
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
-- Post Graduation Program in Computational Data Science
-- PGP in Artificial Intelligence (Collaborated with LJMU Masters Program)
-- Google Cloud Skill Boost Badges
-- IBM Skill Badges
+### There's a horizontal rule below this.
 
-🚀 **Projects**
+* * *
 
-- **CaloGreens.AI (Calorie Detection in Fruits and Veggies)**
-  - Utilizes a pre-trained CNN model for image classification and calorie detection.
-  - Developed a user-friendly Streamlit app.
+### Here is an unordered list:
 
-- **SmartHire.AI (Employee Skill Evaluation for Optimal Job Fit)**
-  - Compares job descriptions with uploaded PDF resumes using NLP techniques.
-  - Calculates similarity and provides a suitability overview.
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-- **Predicting Customer Churn in a Telecom Company (Full Stack)**
-  - Utilizes logistic regression for customer churn prediction.
-  - Dockerized the app and implemented CI/CD using Git and Jenkins.
+### And an ordered list:
 
-- **Distinct Wine Categories Clustering**
-  - Implemented K-Means clustering from scratch in Python.
-  - Analyzed and visualized wine dataset clusters.
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-🎯 **Interests/ Hobbies**
+### And a nested list:
 
-- Fitness
-- Videography/Vlogging
-- Blogging
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-Follow for updates on AI, Machine Learning, and Data Science. Let's shape the future together! 🤖📊
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
