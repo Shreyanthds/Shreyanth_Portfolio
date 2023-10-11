@@ -32,7 +32,7 @@ This Python script is a Streamlit web application for detecting and classifying 
 
 ## SmartHire.AI 
 #### Employee Skill Evaluation for Optimal Job Fit
-![Project Image]![SmartHireAI](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/c890a47c-2544-4938-9f38-75f02ee64599)
+![SmartHireAI](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/c890a47c-2544-4938-9f38-75f02ee64599)
 Compares job descriptions with uploaded PDF resumes using NLP techniques.
 Calculates similarity and provides a suitability overview.It helps candidates assess how well their resume matches a given job description using natural language processing (NLP) techniques. The application takes the job description as input and allows users to upload their resume in PDF format. It then calculates the similarity between the job description and the resume and provides an overview and suitability evaluation based on the similarity score.
 
