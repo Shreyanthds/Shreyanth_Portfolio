@@ -27,6 +27,7 @@ Compares job descriptions with uploaded PDF resumes using NLP techniques.
 Calculates similarity and provides a suitability overview.It helps candidates assess how well their resume matches a given job description using natural language processing (NLP) techniques. The application takes the job description as input and allows users to upload their resume in PDF format. It then calculates the similarity between the job description and the resume and provides an overview and suitability evaluation based on the similarity score.
 
 ## Predicting Customer Churn in a Telecom Company (Full Stack)
+
 ![customer-churn-analysis](https://github.com/Shreyanthds/Shreyanth_Portfolio/assets/115062429/44fa327f-1d07-4368-8fa3-2960a1c23acc)
 Utilizes logistic regression for customer churn prediction.Dockerized the app and implemented CI/CD using Git and Jenkins.
 
