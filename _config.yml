@@ -3,13 +3,14 @@ logo: "/assets/img/Shreyanth_hg.jpg"
 description: >
   I am a data science enthusiast passionate about solving complex problems, connecting ideas across domains, 
   and developing innovative solutions that balance theoretical intelligence with real-world usability in limited-resource settings.
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
 # Optional Navigation Links
 default_social_links:
-  email: "mailto:shreyanthhg.dev@gmail.com"
+  email: "mailto:shreyanthhg1427@gmail.com"
   linkedin: "https://linkedin.com/in/shreyanth-h-g-26b35a22b"
   github: "https://github.com/shreyanthhg"
 
