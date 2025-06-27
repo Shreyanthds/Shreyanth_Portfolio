@@ -1,16 +1,8 @@
 title: "Shreyanth Portfolio"
 logo: "/assets/img/Shreyanth_hg.jpg"
 description: >
-  Hi there, I'm an aspiring data science enthusiast who loves finding patterns and connecting dots — 
-  be it ideas from different industries, people from diverse backgrounds and teams, or applications from various domains. 
-  I have a strong foundation in databases, machine learning, and deep learning techniques. 
-  My academic background blends mathematics, engineering, and statistics to drive innovation and practical problem-solving.
-
-  As a researcher, I focus on optimizing Large Language Models (LLMs) for low-resource environments. 
-  My recent work includes SCALE: an adaptive adapter injection framework for transformer-based models, 
-  enabling memory-efficient fine-tuning. I also work on Retrieval-Augmented Generation (RAG), Edge AI for real-time inference, 
-  and visual recognition systems using YOLOv12 and ViT backbones. These projects aim to bridge the gap between theoretical AI capabilities 
-  and their real-world deployment on constrained hardware.
+  I am a data science enthusiast passionate about solving complex problems, connecting ideas across domains, 
+  and developing innovative solutions that balance theoretical intelligence with real-world usability in limited-resource settings.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
