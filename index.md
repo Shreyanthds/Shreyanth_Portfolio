@@ -1,10 +1,10 @@
 # Shreyanth H G
 
-**AI/ML Engineer | Researcher | Edge AI | LLM Optimization**
+AI/ML Engineer | Researcher | Edge AI | LLM Optimization
 
 Location: Bengaluru, Karnataka, India
 
-Email: [shreyanthhg1427@gmail.com](mailto:shreyanthhg1427@gmail.com)
+Email: [shreyanthhg1427@gmail.com](mailto:shreyanthhg.dev@gmail.com)
 
 LinkedIn: [https://linkedin.com/in/shreyanth-h-g-26b35a22b](https://linkedin.com/in/shreyanth-h-g-26b35a22b)
 
@@ -181,12 +181,5 @@ This embedded system project integrated ESP32-CAM modules with GPIO-controlled s
 Throughout my career, I have actively contributed to the AI/ML community through mentorship and educational initiatives. At BGSCET, I organized and led a hands-on GenAI workshop for over 290 students. The session covered fundamentals of transformer architectures, prompt tuning strategies, and generative AI applications in real-world scenarios.
 
 I was also invited as the keynote speaker for a Data Science Workshop at RRCE, where I presented a technical session on statistical modeling, applied EDA, and data storytelling using case studies. In my current organization, I mentor interns and junior engineers, assisting in structuring their ML projects, reviewing their pipelines, and guiding them through the research and implementation phases. My mentorship has resulted in successful delivery of projects in low-resource LLM tuning and edge computer vision deployment.
-
----
-
-## Contact
-
-* **Email**: [shreyanthhg1427@gmail.com](mailto:shreyanthhg1427@gmail.com)
-* **LinkedIn**: [https://linkedin.com/in/shreyanth-h-g-26b35a22b](https://linkedin.com/in/shreyanth-h-g-26b35a22b)
 
 ---
