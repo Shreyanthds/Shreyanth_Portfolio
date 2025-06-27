@@ -1,8 +1,11 @@
 # Shreyanth H G
 
 **AI/ML Engineer | Researcher | Edge AI | LLM Optimization**
+
 Location: Bengaluru, Karnataka, India
+
 Email: [shreyanthhg1427@gmail.com](mailto:shreyanthhg1427@gmail.com)
+
 LinkedIn: [https://linkedin.com/in/shreyanth-h-g-26b35a22b](https://linkedin.com/in/shreyanth-h-g-26b35a22b)
 
 ---
