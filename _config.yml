@@ -3,30 +3,3 @@ logo: "/assets/img/IMG_5772.PNG"
 description: >
   I am a data science enthusiast passionate about solving complex problems, connecting ideas across domains, 
   and developing innovative solutions that balance theoretical intelligence with real-world usability in limited-resource settings.
-
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
-
-# Optional Navigation Links
-default_social_links:
-  email: "mailto:shreyanthhg.dev@gmail.com"
-  linkedin: "https://linkedin.com/in/shreyanth-h-g-26b35a22b"
-  github: "https://github.com/shreyanthhg"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-
-# Exclude folders from build
-exclude:
-  - node_modules
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
