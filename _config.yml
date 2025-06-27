@@ -1,6 +1,39 @@
-title: Shreyanth Portfolio
-logo: /assets/img/Shreyanth_hg.jpg
-description: Hi there Im an aspiring data science enthusiastic who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. I have good technical skills, particularly in databases and machine learning, and an academic background in mathematics, engineering and statistics.
+title: "Shreyanth Portfolio"
+logo: "/assets/img/Shreyanth_hg.jpg"
+description: >
+  Hi there, I'm an aspiring data science enthusiast who loves finding patterns and connecting dots — 
+  be it ideas from different industries, people from diverse backgrounds and teams, or applications from various domains. 
+  I have a strong foundation in databases, machine learning, and deep learning techniques. 
+  My academic background blends mathematics, engineering, and statistics to drive innovation and practical problem-solving.
+
+  As a researcher, I focus on optimizing Large Language Models (LLMs) for low-resource environments. 
+  My recent work includes SCALE: an adaptive adapter injection framework for transformer-based models, 
+  enabling memory-efficient fine-tuning. I also work on Retrieval-Augmented Generation (RAG), Edge AI for real-time inference, 
+  and visual recognition systems using YOLOv12 and ViT backbones. These projects aim to bridge the gap between theoretical AI capabilities 
+  and their real-world deployment on constrained hardware.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+# Optional Navigation Links
+default_social_links:
+  email: "mailto:shreyanthhg1427@gmail.com"
+  linkedin: "https://linkedin.com/in/shreyanth-h-g-26b35a22b"
+  github: "https://github.com/shreyanthhg"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude folders from build
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
