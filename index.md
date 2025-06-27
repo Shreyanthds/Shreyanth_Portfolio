@@ -1,6 +1,6 @@
 # Shreyanth H G
 
-AI/ML Engineer | Researcher | Edge AI | LLM Optimization
+AI/ML Engineer | Researcher | LLM Optimization
 
 Location: Bengaluru, Karnataka, India
 
